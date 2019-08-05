@@ -4,6 +4,6 @@ documented code samples and libraries are included in each directory under elego
 
 individual library zips for easier installation are under elegoo-sensor-examples/Libraries
 
-instructional pdf with guides on how to setup each sensor with wiring and explanations of the parts in elegoo-sensor-examples/i
+instructional pdf with guides on how to setup each sensor with wiring and explanations of the parts in elegoo-sensor-examples/
 
 made by Kameel Ahamed for UME Academy
